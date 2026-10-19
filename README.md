@@ -9,3 +9,4 @@ Use the Week 1 Canvas lesson and assignment. Open index.html in a browser; inspe
 | Action/input | Expected | Actual | Fix/notes |
 |---|---|---|---|
 | | | | |
+
