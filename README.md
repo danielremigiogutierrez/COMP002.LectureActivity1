@@ -10,3 +10,4 @@ Use the Week 1 Canvas lesson and assignment. Open index.html in a browser; inspe
 |---|---|---|---|
 | | | | |
 
+https://danielremigiogutierrez.github.io/COMP002.LectureActivity1/
